@@ -141,7 +141,7 @@ src/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/EcoShop.git
+git clone https://github.com/rkumar9525/EcoShop.git
 cd EcoShop
 
 # 2. Install dependencies
